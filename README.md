@@ -1,4 +1,4 @@
-## Reconhecimento facial baseado em transfer learning: Fernanda Montenegro e Fernanda Torres
+# Reconhecimento facial baseado em transfer learning: Fernanda Montenegro e Fernanda Torres
 
 ## Descrição
 Este projeto implementa um modelo de reconhecimento facial baseado em **Transfer Learning**, utilizando o modelo **MobileNetV2** para classificar imagens das atrizes **Fernanda Montenegro** e **Fernanda Torres**. O objetivo é explorar técnicas de **Deep Learning** e **aprendizado por transferência**.
@@ -81,5 +81,5 @@ fs_detector_model/
 Este projeto está licenciado sob a **MIT License**. Consulte o arquivo `LICENSE` para mais informações.
 
 ---
-Desenvolvido por **Eric dos Santos** - 2024
+Desenvolvido por **Eric dos Santos** - 2025
 
